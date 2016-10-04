@@ -1,0 +1,307 @@
+# depslib dependency file v1.0
+1388928013 source:c:\users\wayne\desktop\tilt to pass\arrow.cpp
+	"Tilt to Pass.h"
+
+1388998109 c:\users\wayne\desktop\tilt to pass\tilt to pass.h
+	<iostream>
+	<curses.h>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<ctime>
+	<cstring>
+	<vector>
+
+1388927353 source:c:\users\wayne\desktop\tilt to pass\enemy.cpp
+	"Tilt to Pass.h"
+
+1388998167 source:c:\users\wayne\desktop\tilt to pass\main.cpp
+	"Tilt to Pass.h"
+
+1388928660 source:c:\users\wayne\desktop\tilt to pass\otherfunction.cpp
+	"Tilt to Pass.h"
+
+1388930686 source:c:\users\wayne\desktop\tilt to pass\circlebomb.cpp
+	"Tilt to Pass.h"
+
+1388998047 source:c:\users\wayne\desktop\tilt to pass\mode_1.cpp
+	"Tilt to Pass.h"
+
+1388940821 source:c:\users\wayne\desktop\tilt to pass\mode_3.cpp
+	"Tilt to Pass.h"
+
+1388998155 source:c:\users\wayne\desktop\tilt to pass\menu.cpp
+	"Tilt to Pass.h"
+
+1388998109 source:c:\users\wayne\desktop\tilt to pass\mode_2.cpp
+	"Tilt to Pass.h"
+
+1388928013 source:d:\ntu\computerprogramming\finalprofect\ver3.0\tilt to pass\arrow.cpp
+	"Tilt to Pass.h"
+
+1389008990 d:\ntu\computerprogramming\finalprofect\ver3.0\tilt to pass\tilt to pass.h
+	<iostream>
+	<curses.h>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<ctime>
+	<cstring>
+	<vector>
+
+1389006436 source:d:\ntu\computerprogramming\finalprofect\ver3.0\tilt to pass\circlebomb.cpp
+	"Tilt to Pass.h"
+
+1388927353 source:d:\ntu\computerprogramming\finalprofect\ver3.0\tilt to pass\enemy.cpp
+	"Tilt to Pass.h"
+
+1389005302 source:d:\ntu\computerprogramming\finalprofect\ver3.0\tilt to pass\main.cpp
+	"Tilt to Pass.h"
+
+1389009280 source:d:\ntu\computerprogramming\finalprofect\ver3.0\tilt to pass\menu.cpp
+	"Tilt to Pass.h"
+
+1389006436 source:d:\ntu\computerprogramming\finalprofect\ver3.0\tilt to pass\mode_1.cpp
+	"Tilt to Pass.h"
+
+1389005703 source:d:\ntu\computerprogramming\finalprofect\ver3.0\tilt to pass\mode_3.cpp
+	"Tilt to Pass.h"
+
+1389008990 source:d:\ntu\computerprogramming\finalprofect\ver3.0\tilt to pass\otherfunction.cpp
+	"Tilt to Pass.h"
+
+1389006436 source:d:\ntu\computerprogramming\finalprofect\ver3.0\tilt to pass\mode_2.cpp
+	"Tilt to Pass.h"
+
+1388928013 source:c:\users\dcq\desktop\tilt to pass ver5.0\tilt to pass\arrow.cpp
+	"Tilt to Pass.h"
+
+1389021819 c:\users\dcq\desktop\tilt to pass ver5.0\tilt to pass\tilt to pass.h
+	<iostream>
+	<curses.h>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<ctime>
+	<cstring>
+	<vector>
+
+1388927353 source:c:\users\dcq\desktop\tilt to pass ver5.0\tilt to pass\enemy.cpp
+	"Tilt to Pass.h"
+
+1389005302 source:c:\users\dcq\desktop\tilt to pass ver5.0\tilt to pass\main.cpp
+	"Tilt to Pass.h"
+
+1389023952 source:c:\users\dcq\desktop\tilt to pass ver5.0\tilt to pass\menu.cpp
+	"Tilt to Pass.h"
+
+1389022185 source:c:\users\dcq\desktop\tilt to pass ver5.0\tilt to pass\mode_2.cpp
+	"Tilt to Pass.h"
+
+1389022804 source:c:\users\dcq\desktop\tilt to pass ver5.0\tilt to pass\mode_3.cpp
+	"Tilt to Pass.h"
+
+1389021832 source:c:\users\dcq\desktop\tilt to pass ver5.0\tilt to pass\circlebomb.cpp
+	"Tilt to Pass.h"
+
+1389021819 source:c:\users\dcq\desktop\tilt to pass ver5.0\tilt to pass\mode_1.cpp
+	"Tilt to Pass.h"
+
+1389020259 source:c:\users\dcq\desktop\tilt to pass ver5.0\tilt to pass\otherfunction.cpp
+	"Tilt to Pass.h"
+
+1389082735 source:c:\users\dcq\desktop\tilt to pass ver5.1\tilt to pass\arrow.cpp
+	"Tilt to Pass.h"
+
+1389107154 c:\users\dcq\desktop\tilt to pass ver5.1\tilt to pass\tilt to pass.h
+	<iostream>
+	<curses.h>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	<vector>
+
+1389084398 source:c:\users\dcq\desktop\tilt to pass ver5.1\tilt to pass\circlebomb.cpp
+	"Tilt to Pass.h"
+
+1388927353 source:c:\users\dcq\desktop\tilt to pass ver5.1\tilt to pass\enemy.cpp
+	"Tilt to Pass.h"
+
+1389107185 source:c:\users\dcq\desktop\tilt to pass ver5.1\tilt to pass\main.cpp
+	"Tilt to Pass.h"
+
+1389107475 source:c:\users\dcq\desktop\tilt to pass ver5.1\tilt to pass\menu.cpp
+	"Tilt to Pass.h"
+
+1389084726 source:c:\users\dcq\desktop\tilt to pass ver5.1\tilt to pass\mode_1.cpp
+	"Tilt to Pass.h"
+
+1389081387 source:c:\users\dcq\desktop\tilt to pass ver5.1\tilt to pass\mode_2.cpp
+	"Tilt to Pass.h"
+
+1389022804 source:c:\users\dcq\desktop\tilt to pass ver5.1\tilt to pass\mode_3.cpp
+	"Tilt to Pass.h"
+
+1389107790 source:c:\users\dcq\desktop\tilt to pass ver5.1\tilt to pass\otherfunction.cpp
+	"Tilt to Pass.h"
+
+1389108027 source:c:\users\dcq\desktop\tilt to pass ver5.1\tilt to pass\opening.cpp
+	"Tilt to Pass.h"
+
+1389136748 source:d:\ntu\computerprogramming\finalprofect\ver6.0\tilt to pass ver6.0\tilt to pass\arrow.cpp
+	"Tilt to Pass.h"
+
+1389136478 d:\ntu\computerprogramming\finalprofect\ver6.0\tilt to pass ver6.0\tilt to pass\tilt to pass.h
+	<iostream>
+	<curses.h>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	<vector>
+
+1389137425 source:d:\ntu\computerprogramming\finalprofect\ver6.0\tilt to pass ver6.0\tilt to pass\circlebomb.cpp
+	"Tilt to Pass.h"
+
+1389136748 source:d:\ntu\computerprogramming\finalprofect\ver6.0\tilt to pass ver6.0\tilt to pass\enemy.cpp
+	"Tilt to Pass.h"
+
+1389136259 source:d:\ntu\computerprogramming\finalprofect\ver6.0\tilt to pass ver6.0\tilt to pass\main.cpp
+	"Tilt to Pass.h"
+
+1389138984 source:d:\ntu\computerprogramming\finalprofect\ver6.0\tilt to pass ver6.0\tilt to pass\menu.cpp
+	"Tilt to Pass.h"
+
+1389136517 source:d:\ntu\computerprogramming\finalprofect\ver6.0\tilt to pass ver6.0\tilt to pass\mode_1.cpp
+	"Tilt to Pass.h"
+
+1389081387 source:d:\ntu\computerprogramming\finalprofect\ver6.0\tilt to pass ver6.0\tilt to pass\mode_2.cpp
+	"Tilt to Pass.h"
+
+1389136748 source:d:\ntu\computerprogramming\finalprofect\ver6.0\tilt to pass ver6.0\tilt to pass\mode_3.cpp
+	"Tilt to Pass.h"
+
+1389108027 source:d:\ntu\computerprogramming\finalprofect\ver6.0\tilt to pass ver6.0\tilt to pass\opening.cpp
+	"Tilt to Pass.h"
+
+1389139482 source:d:\ntu\computerprogramming\finalprofect\ver6.0\tilt to pass ver6.0\tilt to pass\otherfunction.cpp
+	"Tilt to Pass.h"
+
+1389144475 source:c:\users\dcq\desktop\tilt to pass ver6.1\tilt to pass\arrow.cpp
+	"Tilt to Pass.h"
+
+1389170139 c:\users\dcq\desktop\tilt to pass ver6.1\tilt to pass\tilt to pass.h
+	<iostream>
+	<curses.h>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	<vector>
+
+1389171340 source:c:\users\dcq\desktop\tilt to pass ver6.1\tilt to pass\circlebomb.cpp
+	"Tilt to Pass.h"
+
+1389156629 source:c:\users\dcq\desktop\tilt to pass ver6.1\tilt to pass\enemy.cpp
+	"Tilt to Pass.h"
+
+1389171243 source:c:\users\dcq\desktop\tilt to pass ver6.1\tilt to pass\main.cpp
+	"Tilt to Pass.h"
+
+1389167681 source:c:\users\dcq\desktop\tilt to pass ver6.1\tilt to pass\menu.cpp
+	"Tilt to Pass.h"
+
+1389170652 source:c:\users\dcq\desktop\tilt to pass ver6.1\tilt to pass\mode_1.cpp
+	"Tilt to Pass.h"
+
+1389171700 source:c:\users\dcq\desktop\tilt to pass ver6.1\tilt to pass\mode_2.cpp
+	"Tilt to Pass.h"
+
+1389169499 source:c:\users\dcq\desktop\tilt to pass ver6.1\tilt to pass\mode_3.cpp
+	"Tilt to Pass.h"
+
+1389172592 source:c:\users\dcq\desktop\tilt to pass ver6.1\tilt to pass\otherfunction.cpp
+	"Tilt to Pass.h"
+
+1389168660 source:c:\users\dcq\desktop\tilt to pass ver6.1\tilt to pass\opening.cpp
+	"Tilt to Pass.h"
+
+1389144475 source:c:\users\dcq\desktop\tilt to pass ver7.0\tilt to pass\arrow.cpp
+	"Tilt to Pass.h"
+
+1389170139 c:\users\dcq\desktop\tilt to pass ver7.0\tilt to pass\tilt to pass.h
+	<iostream>
+	<curses.h>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	<vector>
+
+1389171340 source:c:\users\dcq\desktop\tilt to pass ver7.0\tilt to pass\circlebomb.cpp
+	"Tilt to Pass.h"
+
+1389156629 source:c:\users\dcq\desktop\tilt to pass ver7.0\tilt to pass\enemy.cpp
+	"Tilt to Pass.h"
+
+1389171243 source:c:\users\dcq\desktop\tilt to pass ver7.0\tilt to pass\main.cpp
+	"Tilt to Pass.h"
+
+1389167681 source:c:\users\dcq\desktop\tilt to pass ver7.0\tilt to pass\menu.cpp
+	"Tilt to Pass.h"
+
+1389170652 source:c:\users\dcq\desktop\tilt to pass ver7.0\tilt to pass\mode_1.cpp
+	"Tilt to Pass.h"
+
+1389173370 source:c:\users\dcq\desktop\tilt to pass ver7.0\tilt to pass\mode_2.cpp
+	"Tilt to Pass.h"
+
+1389169499 source:c:\users\dcq\desktop\tilt to pass ver7.0\tilt to pass\mode_3.cpp
+	"Tilt to Pass.h"
+
+1389168660 source:c:\users\dcq\desktop\tilt to pass ver7.0\tilt to pass\opening.cpp
+	"Tilt to Pass.h"
+
+1389172592 source:c:\users\dcq\desktop\tilt to pass ver7.0\tilt to pass\otherfunction.cpp
+	"Tilt to Pass.h"
+
+1389334926 source:c:\users\administrator\desktop\tilt to pass ver7.0\tilt to pass\arrow.cpp
+	"Tilt to Pass.h"
+
+1389341851 c:\users\administrator\desktop\tilt to pass ver7.0\tilt to pass\tilt to pass.h
+	<iostream>
+	<curses.h>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	<vector>
+
+1389343034 source:c:\users\administrator\desktop\tilt to pass ver7.0\tilt to pass\circlebomb.cpp
+	"Tilt to Pass.h"
+
+1389341207 source:c:\users\administrator\desktop\tilt to pass ver7.0\tilt to pass\enemy.cpp
+	"Tilt to Pass.h"
+
+1389174076 source:c:\users\administrator\desktop\tilt to pass ver7.0\tilt to pass\main.cpp
+	"Tilt to Pass.h"
+
+1389167681 source:c:\users\administrator\desktop\tilt to pass ver7.0\tilt to pass\menu.cpp
+	"Tilt to Pass.h"
+
+1389342579 source:c:\users\administrator\desktop\tilt to pass ver7.0\tilt to pass\mode_2.cpp
+	"Tilt to Pass.h"
+
+1389169499 source:c:\users\administrator\desktop\tilt to pass ver7.0\tilt to pass\mode_3.cpp
+	"Tilt to Pass.h"
+
+1389343034 source:c:\users\administrator\desktop\tilt to pass ver7.0\tilt to pass\opening.cpp
+	"Tilt to Pass.h"
+
+1389342196 source:c:\users\administrator\desktop\tilt to pass ver7.0\tilt to pass\otherfunction.cpp
+	"Tilt to Pass.h"
+
+1389342579 source:c:\users\administrator\desktop\tilt to pass ver7.0\tilt to pass\mode_1.cpp
+	"Tilt to Pass.h"
+
